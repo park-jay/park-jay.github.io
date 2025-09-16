@@ -11,15 +11,14 @@ main:
   - title: "Research"
     url: /Research/
 
-  - title: "Service"
-    url: /Service/    
-
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Advising"
     url: /advising/
-        
+    
+  - title: "Service"
+    url: /Service/     
   # - title: "Blog Posts"
   #   url: /year-archive/
     
