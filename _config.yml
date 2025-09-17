@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "jay.png"
   name             : "Jaihyun Park"
-  pronouns         :  "He/him"  
+  pronouns         :  # "He/him"  
   bio              : "Assistant Professor at Department of Library and Information Science, Luddy School of Informatics, Computing, and Engineering"
   location         : # "Indiana, USA"
   employer         : "Indiana University Indianapolis "
