@@ -7,19 +7,11 @@ author_profile: true
 
 ## Current Courses
 
-### Spring 2025
-- Course Code: Advanced Topics in Research
-  - Role: Instructor
-  - Description: Advanced research methodologies and current trends in the field.
-
-### Fall 2024
-- Course Code: Introduction to Research Methods
-  - Role: Instructor
-  - Description: Fundamental research concepts and methodologies.
+Department of Library and Information Science, Luddy School of Informatics, Computing, and Engineering
+Indiana University Indianapolis Indianapolis, IN
+Assistant Professor August 2025 - Present
 
 ## Previous Courses
 
-### 2023-2024
-- Research Seminar Series
-- Advanced Laboratory Techniques
-- Graduate Research Methods
+Wee Kim Wee School of Communication and Information, Nanyang Technological University Singapore
+Assistant Professor August 2024 - July 2025
