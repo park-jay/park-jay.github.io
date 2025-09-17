@@ -7,11 +7,12 @@ author_profile: true
 
 ## Current Courses
 
+### Assistant Professor
 Department of Library and Information Science, Luddy School of Informatics, Computing, and Engineering
 Indiana University Indianapolis Indianapolis, IN
-Assistant Professor August 2025 - Present
+August 2025 - Present
 
 ## Previous Courses
-
+### Assistant Professor 
 Wee Kim Wee School of Communication and Information, Nanyang Technological University Singapore
-Assistant Professor August 2024 - July 2025
+August 2024 - July 2025
