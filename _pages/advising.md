@@ -10,7 +10,17 @@ author_profile: true
 ### PhD Students
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/bio-photo.jpg" alt="Student Name" width="120" style="margin-right: 20px; border-radius: 10px;" />
+  <img src="/images/Hasa.png" alt="Student Name" width="120" style="margin-right: 20px; border-radius: 10px;" />
+  <div>
+    <strong>Student Name (2023–present)</strong><br>
+    Research Topic: "Topic of their research"<br>
+    Expected Graduation: Spring 2026
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/Gyuri.jpg" alt="Student Name" width="120" style="margin-right: 20px; border-radius: 10px;" />
   <div>
     <strong>Student Name (2023–present)</strong><br>
     Research Topic: "Topic of their research"<br>
@@ -21,7 +31,7 @@ author_profile: true
 ### Master's Students
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/bio-photo-2.jpg" alt="Student Name" width="120" style="margin-right: 20px; border-radius: 10px;" />
+  <img src="/images/Sai.jpg" alt="Student Name" width="120" style="margin-right: 20px; border-radius: 10px;" />
   <div>
     <strong>Student Name (2024–present)</strong><br>
     Research Topic: "Topic of their research"<br>
