@@ -5,14 +5,14 @@ permalink: /Research/
 author_profile: true
 ---
 
-# RESEARCH INTEREST
+## RESEARCH INTEREST
 • Digital Humanities / Computational Social Science
 – Natural Language Processing (Comparative / Quantitative Discourse Analysis)
 – Network Analysis
 • Responsible Data Science
 – Data Curation (Data Reuse and Sharing)
 
-# AWARDED PAPERS
+## AWARDED PAPERS
 Park, J. (2016). The Federated Library for North and South Korea to Preserve Collective Knowledge. The 2016 Unification
 Thesis Collection: The 35th (Under) Graduate Student Unification Thesis Award, 35, pp. 123-170 (in Korean). Paper
 
@@ -20,7 +20,7 @@ Park, J. (2014). Advancing Collection Quality to Modernize Libraries - Through L
 The Awarded Thesis Collection: The 6th (Under) Graduate Student Library Modernization Thesis Award, 6, pp. 39-64 (in
 Korean).
 
-# JOURNAL PUBLICATIONS
+## JOURNAL PUBLICATIONS
 
 Kim, S., Yoon, A. & Park, J. (2025). Research Trends in STEM Education: A Review of Publicly Funded Projects from
 the Institute of Museum and Library Services. Library and Information Science Research. Paper
@@ -35,7 +35,7 @@ learning data sets and social impact. Journal of Information Science. Paper
 Dalgali, A., Xiao, L. & Park, J. (2023). Reasoning in Social Media: Insights from Reddit ”Change My View” Submissions.
 Online Information Review, 45(7), pp. 1208-1226. Paper
 
-# CONFERENCE & WORKSHOP PAPERS
+## CONFERENCE & WORKSHOP PAPERS
 
 Park, J. & Cordell, R. (2025). A data-driven investigation of euphemistic language: Comparing the usage of “slave” and
 “servant” in 19th century US newspapers. NLP4DH 2025. Code Paper
@@ -59,7 +59,7 @@ The International Conference on Dublin Core and Metadata Applications pp.1-11. P
 Allen, R. B. & Park, J. (2018). Coordinating and Integrating Faceted Classification with Rich Semantic Modeling. The
 Workshop on Ontology and Rich Semantics: Frameworks and Applications Paper
 
-# CONFERENCE POSTERS & EXTENDED ABSTRACT
+## CONFERENCE POSTERS & EXTENDED ABSTRACT
 
 Park, J., Yoon, A. (forthcoming). Characteristics of Dataset and Model Reuse Patterns on the Hugging Face Platform. The
 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T).
