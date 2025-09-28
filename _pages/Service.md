@@ -7,5 +7,5 @@ author_profile: true
 
 ## Service 
 
-These are the services i made 
-:)
+ Wee Kim Wee School of Communication and Information, Nanyang Technological University
+ MS in Information Systems Admission Committee
