@@ -50,7 +50,7 @@ author_profile: true
   <div>
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
       <strong>Sai Pranam Chillakuru (2024–present)</strong>
-      <a href="https://your-portfolio-link.com" target="_blank" style="padding: 4px 8px; background-color: #1a73e8; color: white; border-radius: 5px; text-decoration: none; font-size: 0.9em;">
+      <a href="https://chillakurusaipranam.github.io/" target="_blank" style="padding: 4px 8px; background-color: #1a73e8; color: white; border-radius: 5px; text-decoration: none; font-size: 0.9em;">
         Portfolio
       </a>
     </div>
