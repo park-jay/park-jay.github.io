@@ -22,12 +22,17 @@ Assistant Professor August 2025 - Present
    Singapore Fall 2024, Spring 2025
    
 ### School of Information Sciences, University of Illinois at Urbana-Champaign, Champaign, IL
-   Social Media Analysis (IS 324) Instructor  Spring 2024
-   Reference and Information Services (IS 501) Teaching Assistant Summer 2021, 2023
-   Ethics and Policy for Data Science (IS 467) Teaching Assistant Fall 2022
-   Information Modeling (IS 515) Teaching Assistant Fall 2021
-   Information Organization and Access (IS 505) Teaching Assistant Spring 2021
-   Foundations of Information Processing (IS 430) Teaching Assistant Fall 2020      
+   Social Media Analysis (IS 324) Instructor                             Spring 2024
+   
+   Reference and Information Services (IS 501) Teaching Assistant        Summer 2021, 2023
+   
+   Ethics and Policy for Data Science (IS 467) Teaching Assistant        Fall 2022
+   
+   Information Modeling (IS 515) Teaching Assistant                      Fall 2021
+   
+   Information Organization and Access (IS 505) Teaching Assistant       Spring 2021
+   
+   Foundations of Information Processing (IS 430) Teaching Assistant     Fall 2020      
 
  
  
