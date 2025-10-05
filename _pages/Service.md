@@ -7,7 +7,7 @@ author_profile: true
 
 ## Service 
 
- Wee Kim Wee School of Communication and Information, Nanyang Technological University,Singapore
+ ### Wee Kim Wee School of Communication and Information, Nanyang Technological University,Singapore
  
  MS in Information Systems Admission Committee 2025
  
