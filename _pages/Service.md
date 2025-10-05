@@ -7,8 +7,8 @@ author_profile: true
 
 ## Service 
 
- Wee Kim Wee School of Communication and Information, Nanyang Technological University
- MS in Information Systems Admission Committee
+ Wee Kim Wee School of Communication and Information, Nanyang Technological University,Singapore 
+ MS in Information Systems Admission Committee 2025
  
  ## STUDENT MENTORSHIP
  ### Indiana University Indianapolis, Indianapolis,IN 
