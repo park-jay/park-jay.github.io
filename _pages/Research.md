@@ -14,16 +14,17 @@ author_profile: true
 
 ## AWARDED PAPERS
 Park, J. (2016). The Federated Library for North and South Korea to Preserve Collective Knowledge. The 2016 Unification
-Thesis Collection: The 35th (Under) Graduate Student Unification Thesis Award, 35, pp. 123-170 (in Korean). Paper
+Thesis Collection: The 35th (Under) Graduate Student Unification Thesis Award, 35, pp. 123-170 (in Korean). [:page_facing_up: Paper](https://uniedu.go.kr/uniedu/home/pds/pdsatcl/view.do?id=19773&mid=SM00000532&limit=20&sc=T&eqOdrby=false&eqViewYn=true&odr=news)
 
 Park, J. (2014). Advancing Collection Quality to Modernize Libraries - Through Librarian Collaborative Book Review.
 The Awarded Thesis Collection: The 6th (Under) Graduate Student Library Modernization Thesis Award, 6, pp. 39-64 (in
-Korean).
+Korean).[:page_facing_up: Paper](https://oak.go.kr/nl-ir/handle/2020.oak/304)
+
 
 ## JOURNAL PUBLICATIONS
 
 Kim, S., Yoon, A. & Park, J. (2025). Research Trends in STEM Education: A Review of Publicly Funded Projects from
-the Institute of Museum and Library Services. Library and Information Science Research. Paper
+the Institute of Museum and Library Services. Library and Information Science Research. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0740818825000295)
 
 Park, J., Yang, JH., Tolbert, A. & Bunsold, K. (Online First). You change the way you talk: Examining the network, hate
 speech, and discourse of cross-platform users on Twitter and Parler during the 2020 U.S. Presidential Election. Journal of
