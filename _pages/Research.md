@@ -10,7 +10,7 @@ author_profile: true
 – Natural Language Processing (Comparative / Quantitative Discourse Analysis)
 – Network Analysis
 • Responsible Data Science
-– Data Curation (Data Reuse and Sharing)
+– Data Curation (Data Reuse and Sharing) 
 
 ## AWARDED PAPERS
 Park, J. (2016). The Federated Library for North and South Korea to Preserve Collective Knowledge. The 2016 Unification
