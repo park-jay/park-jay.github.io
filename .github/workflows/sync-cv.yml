@@ -1,0 +1,34 @@
+name: Sync CV PDF
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout website repo
+        uses: actions/checkout@v4
+
+      - name: Download CV PDF from CV repo
+        run: |
+          mkdir -p assets/pdf
+          curl -L \
+           https://raw.githubusercontent.com/anuska58/mrparkcv/main/main.pdf \
+            -o assets/pdf/cv.pdf
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add assets/pdf/cv.pdf
+          if git diff --cached --quiet; then
+            echo "No CV changes detected"
+          else
+            git commit -m "Auto-update CV PDF"
+            git push
+          fi
