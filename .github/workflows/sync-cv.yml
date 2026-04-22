@@ -13,11 +13,11 @@ jobs:
       - name: Checkout website repo
         uses: actions/checkout@v4
 
-      - name: Download CV PDF from CV repo
+      - name: Download CV PDF from professor repo
         run: |
           mkdir -p assets/pdf
           curl -L \
-           https://raw.githubusercontent.com/anuska58/mrparkcv/main/main.pdf \
+            https://raw.githubusercontent.com/park-jay/cv/main/main.pdf \
             -o assets/pdf/cv.pdf
 
       - name: Commit and push if changed
